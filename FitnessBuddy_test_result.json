@@ -1,0 +1,11 @@
+{
+	"choices": [
+		{
+			"index": 0,
+			"message": {
+				"content": "Based on the information provided by the RAGQuery tool, the best workout routine for weight loss is a combination of cardio and strength training exercises that can be done at home with minimal equipment. The tool recommends a full body burn workout that lasts for 20 minutes and has a medium level of difficulty. It also suggests a chest and triceps workout that lasts for 30 minutes and has a hard level of difficulty. Additionally, the tool recommends a yoga flow workout that lasts for 25 minutes and has an easy level of difficulty.\n\nIt's also important to note that the tool provides personalized meal suggestions and motivational tips to help users stay consistent and motivated. The tool also encourages habit-building and consistency tracking to help users achieve their fitness goals.\n\nOverall, the best workout routine for weight loss is one that is tailored to an individual's needs and goals, and that includes a combination of cardio and strength training exercises. The tool provides a comprehensive approach to fitness that includes workout recommendations, meal suggestions, and motivational tips to help users achieve their goals.",
+				"role": "assistant"
+			}
+		}
+	]
+}
